@@ -22,37 +22,11 @@ This project analyzes Cyclistic bike-share data for Q1 2019 and Q1 2020 to under
 
 ---
 
-## 🗂️ Project Structure
-
-cyclistic-bike-share-analysis/
-├── data/
-│   ├── raw/                # Raw datasets (Q1_2019.csv, Q1_2020.csv)
-│   ├── processed/          # Cleaned data (cleaned_data.csv)
-│   └── README.md           # Data source details
-├── scripts/
-│   ├── data_cleaning.py    # Data cleaning script (if used)
-│   ├── analysis.py         # Analysis script (if used)
-│   └── conclusions.xlsx    # Summary of conclusions
-├── results/
-│   ├── Cyclistic_Analysis_2019_vs_2020.pptx  # PowerPoint presentation
-│   ├── figures/            # Plots or screenshots (if any)
-│   └── summary_tables.xlsx # Summary tables (if any)
-├── docs/
-│   ├── methodology.md      # Analysis methodology
-│   └── insights.md         # Key insights
-├── README.md               # This file
-├── requirements.txt        # Python dependencies (if used)
-└── .gitignore              # Ignored files
-
-
----
-
 ## ⚙️ Methodology
 
 - **Data Cleaning**: Removed missing values, standardized date/time formats, merged Q1 2019 and Q1 2020 data.
 - **Tools**:
   - **Microsoft Excel**: Data cleaning, pivot tables
-  - **Python** *(optional)*: Automation scripts
 - **Analysis Highlights**:
   - Average and max ride lengths
   - Ride counts per rider type
