@@ -19,8 +19,7 @@ This project analyzes Cyclistic bike-share data for Q1 2019 and Q1 2020 to under
 - **Raw Datasets**: Q1 2019 & Q1 2020 data from Cyclistic (via Google Data Analytics Capstone).
 - **Raw files location**: (https://docs.google.com/spreadsheets/d/1uCTsHlZLm4L7-ueaSLwDg0ut3BP_V4mKDo2IMpaXrk4/template/preview?resourcekey=0-dQAUjAu2UUCsLEQQt20PDA#gid=1797029090) , (https://docs.google.com/spreadsheets/d/179QVLO_yu5BJEKFVZShsKag74ZaUYIF6FevLYzs3hRc/template/preview#gid=640449855)
 - 
-- **Processed file**: `data/processed/cleaned_data.csv`
-
+- **Processed file**: `(https://drive.google.com/drive/folders/1Nerv4cgY1gvxG-upZqadqRs_jpxAas_l?usp=sharing)
 ---
 
 ## ⚙️ Methodology
