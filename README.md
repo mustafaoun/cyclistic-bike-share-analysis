@@ -71,7 +71,7 @@ Open using **Microsoft PowerPoint** or compatible software.
 ## 🙏 Acknowledgments
 
 - **Data Source**: Cyclistic data via *Google Data Analytics Capstone*
-- **Tools Used**: Microsoft Excel, Python (optional)
+- **Tools Used**: Microsoft Excel, PowerPoint
 
 ---
 
